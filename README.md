@@ -1,11 +1,11 @@
 # golang-essential-reading
 Essential reading before working on a Go repo, according to @BobbyKim
 
-# Reading list
+From [Go Developer Survey 2020 Results](https://blog.golang.org/survey2020-results) 9 March 2021
+* [Overall satisfaction](https://blog.golang.org/survey2020-results#TOC_6.) is high with 92% of respondents being satisfied using Go.
+* The majority of [respondents felt productive](https://blog.golang.org/survey2020-results#TOC_6.2) in Go in less than 3 months, with 81% feeling very or extremely productive in Go.
 
-* From Go Developer Survey 2020 Results 9 March 2021
-* Overall satisfaction is high with 92% of respondents being satisfied using Go.
-* The majority of respondents felt productive in Go in less than 3 months, with 81% feeling very or extremely productive in Go.
+# Reading list
 
 
 ## Overview
